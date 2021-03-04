@@ -9,5 +9,5 @@ setup(name='pytopicrank',
       license='MIT',
       install_requires=['decorator==4.2.1',
                         'langdetect==1.0.7', 'networkx==2.1', 'nltk==3.2.5',
-                        'numpy==1.14.1', 'scikit-learn==0.19.1', 'scipy==1.0.0', 'six==1.11.0'],
+                        'numpy', 'scikit-learn==0.19.1', 'scipy==1.0.0', 'six==1.11.0'],
       packages=['pytopicrank'])
