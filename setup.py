@@ -8,6 +8,6 @@ setup(name='pytopicrank',
       author_email='msc.smirnov.am@gmail.com',
       license='MIT',
       install_requires=['decorator==4.2.1',
-                        'langdetect==1.0.7', 'networkx==2.1', 'nltk==3.2.5',
+                        'langdetect==1.0.7', 'networkx==2.1', 'nltk==3.4.5',
                         'numpy', 'scikit-learn==0.19.1', 'scipy==1.0.0', 'six==1.11.0'],
       packages=['pytopicrank'])
